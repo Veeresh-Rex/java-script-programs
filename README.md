@@ -1,2 +1,2 @@
 # java-script-programs
-Java Scripts Programs
+Java Script Programs
